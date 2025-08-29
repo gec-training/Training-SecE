@@ -1,4 +1,4 @@
 # Training-SecE
 This is for training
 
-ALok Hotta , 9692904521 , alokhotta10@gmail.com
+Alok Kumar Raut , 8260538732 , alokr0843@gmail.com

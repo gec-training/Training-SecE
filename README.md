@@ -2,6 +2,8 @@
 This is for training
 
 
+
+Omm Prakash Swain , 7205777919 , swainommprakash22@gmail.com
 Binay kumar jena, 7978522663 ,binaykumarjena2005@gmail.com
 Pratikshya Swain , 1234556778 , pratikshya123
 Bishal , 7606870520 , biswajitmallick@gmail.com

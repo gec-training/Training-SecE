@@ -1,6 +1,6 @@
 # Training-SecE
 This is for training
-ALok Hotta , 9692904521 , alokhotta10@gmail.com
+
 Animesh Sahoo , 7325897200 , arnapurnasahoo79@gmail.com
 Sunita swain,7846955623,ss5811114@gmail.com
 Indira priyadarshini, 8249991572, indirapriyadarshininayak4@gmail.com
@@ -20,4 +20,3 @@ Subhashis Swain, 6370021992 ,subhasishswain7978@gmail.com</br>
 Abhisekh Mohanty, 6370058508, abhisekhmohanty12@gmail.com</br>
 Chittaranjan sahoo,7605953506,ranjanchitta2777@gmail.com</br>
 Shreepali Lenka,89884594156,lenkashreepali@gmail.com<br>
-Sanjukta Mahato,9178111853,sanjuktamahato111@gmail.com

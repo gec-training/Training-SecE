@@ -1,6 +1,9 @@
 # Training-SecE
 This is for training
 
+Jyotirmayee Sahoo, 8018024573 , jyotirmayeesahoo811@gmail.com
+Keshav Mishra , 7209445949 , keshavmishradeoghar2021@gmail.com
+Suhrud Abhinandan,+91-9937282679,abhinandansuhrud@gmail.com </br>
 Animesh Sahoo , 7325897200 , arnapurnasahoo79@gmail.com
 Sunita swain,7846955623,ss5811114@gmail.com
 Indira priyadarshini, 8249991572, indirapriyadarshininayak4@gmail.com

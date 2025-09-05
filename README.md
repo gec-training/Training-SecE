@@ -1,6 +1,7 @@
 # Training-SecE
 This is for training
 
+Alok Kumar Raut , 8260538732 , alokr0843@gmail.com
 Jyotirmayee Sahoo, 8018024573 , jyotirmayeesahoo811@gmail.com
 Keshav Mishra , 7209445949 , keshavmishradeoghar2021@gmail.com
 Suhrud Abhinandan,+91-9937282679,abhinandansuhrud@gmail.com </br>
@@ -24,3 +25,4 @@ Subhashis Swain, 6370021992 ,subhasishswain7978@gmail.com</br>
 Abhisekh Mohanty, 6370058508, abhisekhmohanty12@gmail.com</br>
 Chittaranjan sahoo,7605953506,ranjanchitta2777@gmail.com</br>
 Shreepali Lenka,89884594156,lenkashreepali@gmail.com</br>
+

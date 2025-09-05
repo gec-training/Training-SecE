@@ -2,8 +2,12 @@
 This is for training
 
 Subham kumar, 8252960108, subham82520108@gmail.com
+Yash Sharma, 9835940812, yashathisbest@gmail.com </br>
+Keshav Mishra , 7209445949 , keshavmishradeoghar2021@gmail.com </br>
+
 Suhrud Abhinandan,+91-9937282679,abhinandansuhrud@gmail.com </br>
 ALok Hotta , 9692904521 , alokhotta10@gmail.com<br>
+Sushree Madhusmita Jena, 6371027138, madhusmitaj494@gmail.com</br>
 Satyanarayan Beshra , 9692503906, satyabeshra@gmail.com</br>
 Bishal , 7606870520 , biswajitmallick@gmail.com</br>
 Babul Jena , 9040803056, babuljena827@gmail.com</br>

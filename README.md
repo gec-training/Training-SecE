@@ -22,7 +22,7 @@ Bishal , 7606870520 , biswajitmallick@gmail.com</br>
 Babul Jena , 9040803056, babuljena827@gmail.com</br>
 Sidharth kumar Mahapatra,8144061101,siddharthmahapatra002@gmail.com</br>
 Vikram pradhan ,7024167305,vikrampradhan520@gmail.com</br>
-Subhashis Swain, 6370021992 ,subhasishswain7978@gmail.com</br>
+Subhasish Swain, 6370021992 ,subhasishswain7978@gmail.com</br>
 Abhisekh Mohanty, 6370058508, abhisekhmohanty12@gmail.com</br>
 Chittaranjan sahoo,7605953506,ranjanchitta2777@gmail.com</br>
 Shreepali Lenka,89884594156,lenkashreepali@gmail.com</br>

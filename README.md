@@ -1,6 +1,8 @@
 # Training-SecE
 This is for training
 
+ALok Hotta , 9692904521 , alokhotta10@gmail.com
+Indira priyadarshini, 8249991572, indirapriyadarshininayak4@gmail.com
 Keshav Mishra , 7209445949 , keshavmishradeoghar2021@gmail.com </br>
 Subham kumar, 8252960108, subham82520108@gmail.com</br>
 Yash Sharma, 9835940812, yashathisbest@gmail.com </br>
@@ -17,3 +19,4 @@ Subhashis Swain, 6370021992 ,subhasishswain7978@gmail.com</br>
 Abhisekh Mohanty, 6370058508, abhisekhmohanty12@gmail.com</br>
 Chittaranjan sahoo,7605953506,ranjanchitta2777@gmail.com</br>
 Shreepali Lenka,89884594156,lenkashreepali@gmail.com<br>
+

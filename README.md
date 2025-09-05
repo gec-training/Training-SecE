@@ -1,10 +1,11 @@
 # Training-SecE
 This is for training
 
-ALok Hotta , 9692904521 , alokhotta10@gmail.com </br>
+
+ALok Hotta , 9692904521 , alokhotta10@gmail.com
+Sunita swain,7846955623,ss5811114@gmail.com
+Indira priyadarshini, 8249991572, indirapriyadarshininayak4@gmail.com
 Priya Srivastava , 9693473367 , priyasrivastava0066@gmail.com </br>
-Indira priyadarshini, 8249991572, indirapriyadarshininayak4@gmail.com </br>
-Keshav Mishra , 7209445949 , keshavmishradeoghar2021@gmail.com </br>
 Subham kumar, 8252960108, subham82520108@gmail.com</br>
 Yash Sharma, 9835940812, yashathisbest@gmail.com </br>
 Keshav Mishra , 7209445949 , keshavmishradeoghar2021@gmail.com </br>

@@ -1,6 +1,5 @@
 # Training-SecE
 This is for training
-Contributed.
 
 Suhrud Abhinandan,+91-9937282679,abhinandansuhrud@gmail.com
 ALok Hotta , 9692904521 , alokhotta10@gmail.com<br>

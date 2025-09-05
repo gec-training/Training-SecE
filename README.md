@@ -25,4 +25,4 @@ Subhashis Swain, 6370021992 ,subhasishswain7978@gmail.com</br>
 Abhisekh Mohanty, 6370058508, abhisekhmohanty12@gmail.com</br>
 Chittaranjan sahoo,7605953506,ranjanchitta2777@gmail.com</br>
 Shreepali Lenka,89884594156,lenkashreepali@gmail.com</br>
-
+Ishaaaaaa Samal,8342866092,dibyadarshinisamal98@gmail.com

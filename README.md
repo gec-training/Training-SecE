@@ -1,6 +1,7 @@
 # Training-SecE
 This is for training
 
+Subhransu,Roll - 2301292593, subhransu416@gmail.com
 Alok Kumar Raut , 8260538732 , alokr0843@gmail.com
 Jyotirmayee Sahoo, 8018024573 , jyotirmayeesahoo811@gmail.com
 Keshav Mishra , 7209445949 , keshavmishradeoghar2021@gmail.com

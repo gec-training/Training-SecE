@@ -13,8 +13,7 @@ Abhisekh Mohanty, 6370058508, abhisekhmohanty12@gmail.com</br>
 Chittaranjan sahoo,7605953506,ranjanchitta2777@gmail.com</br>
 
 Anil kumar sahoo
-7847015255
-sahooanilkumar075@gmail.com
+
 
 
 

@@ -27,6 +27,7 @@ Asutosh sahoo,9337952447,asutosh.sahooo447@gmail.com</br>
 Sushree Madhusmita Jena, 6371027138, madhusmitaj494@gmail.com</br>
 Satyanarayan Beshra , 9692503906, satyabeshra@gmail.com</br>
 Bishal , 7606870520 , biswajitmallick@gmail.com</br>
+Ishaaaaaa Samal,8342866092,dibyadarshinisamal98@gmail.com</br>
 Babul Jena , 9040803056, babuljena827@gmail.com</br>
 Sidharth kumar Mahapatra,8144061101,siddharthmahapatra002@gmail.com</br>
 Vikram pradhan ,7024167305,vikrampradhan520@gmail.com</br>
@@ -35,7 +36,6 @@ Abhisekh Mohanty, 6370058508, abhisekhmohanty12@gmail.com</br>
 Chittaranjan sahoo,7605953506,ranjanchitta2777@gmail.com</br>
 Shreepali Lenka,89884594156,lenkashreepali@gmail.com</br>
 Binay kumar jena,9040171964,binaykumarjena2005@gmail.com</br>
-
 Sanjana Padhi,9692117765,padhisanjana66@gmail.com<br>
 Ishaaaaaa Samal,8342866092,dibyadarshinisamal98@gmail.com</br>
 Binay kumar jena,7978522663,binaykumarjena2005@gmail.com</br>
